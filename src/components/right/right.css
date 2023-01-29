@@ -1,0 +1,79 @@
+.container{
+    width: 400px;
+    height: 330px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 2%;
+    box-shadow: 1px 1px 10px 6px rgb(223, 223, 223);
+    
+}
+
+.input{
+    width: 360px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: rgb(234, 234, 234);
+    border-style: solid;
+}
+
+input:focus{
+    border-color: rgb(7, 106, 255);
+    outline: none;
+}
+
+.login{
+    width: 360px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(7, 106, 255);
+    background-color: rgb(7, 106, 255);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.forgetPw{
+    color: rgb(7, 106, 255);
+    text-decoration: none;
+}
+
+.forget{
+    margin-top: 15px;
+}
+
+.hr{
+    margin-top: 15px;
+    background-color: rgb(221, 221, 221);
+    width: 92%;
+    height: 1px;
+    border: 0px;
+}
+
+.newIdMake{
+    width: 150px;
+    height: 50px;
+    margin-top: 15px;
+    background-color: rgb(75, 187, 75);
+    border-color:  rgb(75, 187, 75);
+    border-style: solid;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.bottom{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.makePage{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
